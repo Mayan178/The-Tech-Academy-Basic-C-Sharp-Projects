@@ -1,0 +1,7 @@
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WelcometoAcme\WelcometoAcme\obj\Debug\WelcometoAcme.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WelcometoAcme\WelcometoAcme\obj\Debug\WelcometoAcme.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WelcometoAcme\WelcometoAcme\bin\Debug\WelcometoAcme.exe.config
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WelcometoAcme\WelcometoAcme\bin\Debug\WelcometoAcme.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WelcometoAcme\WelcometoAcme\bin\Debug\WelcometoAcme.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WelcometoAcme\WelcometoAcme\obj\Debug\WelcometoAcme.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WelcometoAcme\WelcometoAcme\obj\Debug\WelcometoAcme.pdb
