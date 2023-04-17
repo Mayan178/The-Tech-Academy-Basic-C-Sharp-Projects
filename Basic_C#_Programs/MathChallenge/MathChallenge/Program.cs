@@ -35,7 +35,11 @@
         Console.WriteLine(myNumber1AsText + "/" + myNumber2AsText + "=" + divideOf2);
         Console.ReadLine();
 
-
+        //math operation on a string
+        string sentence = "You will retire at ";
+        int retirementage = 65;
+        Console.WriteLine(sentence + retirementage);
+        Console.ReadLine();
 
     }
 }
