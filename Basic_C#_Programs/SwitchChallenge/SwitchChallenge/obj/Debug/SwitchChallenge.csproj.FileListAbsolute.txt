@@ -1,0 +1,7 @@
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.exe.config
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.pdb
