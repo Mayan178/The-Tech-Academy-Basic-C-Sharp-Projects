@@ -1,0 +1,7 @@
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.exe.config
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.pdb

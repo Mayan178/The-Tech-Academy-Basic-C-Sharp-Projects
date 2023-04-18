@@ -1,0 +1,7 @@
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.exe.config
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.pdb

@@ -1,0 +1,7 @@
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.exe.config
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.pdb
