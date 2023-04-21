@@ -1,0 +1,7 @@
+C:\Users\LENOVO-THINKPAD-T430\source\repos\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\LENOVO-THINKPAD-T430\source\repos\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\LENOVO-THINKPAD-T430\source\repos\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\LENOVO-THINKPAD-T430\source\repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\source\repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\source\repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\LENOVO-THINKPAD-T430\source\repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
