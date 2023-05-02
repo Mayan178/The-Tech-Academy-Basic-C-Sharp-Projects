@@ -1,0 +1,7 @@
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsIntegersAssignment\StringsIntegersAssignment\bin\Debug\StringsIntegersAssignment.exe.config
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsIntegersAssignment\StringsIntegersAssignment\bin\Debug\StringsIntegersAssignment.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsIntegersAssignment\StringsIntegersAssignment\bin\Debug\StringsIntegersAssignment.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsIntegersAssignment\StringsIntegersAssignment\obj\Debug\StringsIntegersAssignment.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsIntegersAssignment\StringsIntegersAssignment\obj\Debug\StringsIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsIntegersAssignment\StringsIntegersAssignment\obj\Debug\StringsIntegersAssignment.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsIntegersAssignment\StringsIntegersAssignment\obj\Debug\StringsIntegersAssignment.pdb
