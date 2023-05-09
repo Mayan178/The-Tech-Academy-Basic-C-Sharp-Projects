@@ -1,0 +1,7 @@
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssgntSub\MethodClassAssgntSub\obj\Debug\MethodClassAssgntSub.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssgntSub\MethodClassAssgntSub\obj\Debug\MethodClassAssgntSub.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssgntSub\MethodClassAssgntSub\bin\Debug\MethodClassAssgntSub.exe.config
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssgntSub\MethodClassAssgntSub\bin\Debug\MethodClassAssgntSub.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssgntSub\MethodClassAssgntSub\bin\Debug\MethodClassAssgntSub.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssgntSub\MethodClassAssgntSub\obj\Debug\MethodClassAssgntSub.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssgntSub\MethodClassAssgntSub\obj\Debug\MethodClassAssgntSub.pdb
