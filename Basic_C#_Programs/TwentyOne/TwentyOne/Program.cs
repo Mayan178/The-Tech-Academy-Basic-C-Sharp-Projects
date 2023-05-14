@@ -19,27 +19,35 @@ namespace TwentyOne
             //game.ListPlayers();
             //Console.ReadLine();
 
-           Deck deck = new Deck();
-           deck.Shuffle(3);
+            //example of polymorphism
+            //Game game = new TwentyOneGame();
 
-           // //deck = Shuffle(deck);
-           // //deck = Shuffle(deck, 3);
-           // //deck = Shuffle(deck, 3);
-           // //deck = Shuffle(deck: deck, times: 3);
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+            game.ListPlayers();
+            Console.ReadLine();
+
+           //Deck deck = new Deck();
+           //deck.Shuffle(3);
+
+           //// //deck = Shuffle(deck);
+           //// //deck = Shuffle(deck, 3);
+           //// //deck = Shuffle(deck, 3);
+           //// //deck = Shuffle(deck: deck, times: 3);
 
 
-           // //int timesShuffled = 0;
-           // //deck = Shuffle(deck, out timesShuffled, 3);
+           //// //int timesShuffled = 0;
+           //// //deck = Shuffle(deck, out timesShuffled, 3);
 
-           foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-           Console.WriteLine(deck.Cards.Count);
-           //// Console.WriteLine("Times shuffled: {0}", timesShuffled);
+           //foreach (Card card in deck.Cards)
+           // {
+           //     Console.WriteLine(card.Face + " of " + card.Suit);
+           // }
+           //Console.WriteLine(deck.Cards.Count);
+           ////// Console.WriteLine("Times shuffled: {0}", timesShuffled);
 
-           // //Console.WriteLine(deck.Cards[0].Face + " of " + deck.Cards[0].Suit);
-           Console.ReadLine();
+           //// //Console.WriteLine(deck.Cards[0].Face + " of " + deck.Cards[0].Suit);
+           //Console.ReadLine();
         }
 
         

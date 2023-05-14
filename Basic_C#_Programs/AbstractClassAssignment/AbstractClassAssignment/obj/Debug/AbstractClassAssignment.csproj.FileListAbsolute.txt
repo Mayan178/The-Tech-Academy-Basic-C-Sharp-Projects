@@ -1,0 +1,7 @@
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
