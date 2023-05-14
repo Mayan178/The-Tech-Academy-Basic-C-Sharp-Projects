@@ -10,27 +10,36 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
-            deck.Shuffle(3);
+            //Card card = new Card() { Face = "King", Suit = "Spades" };
+            //Game game = new Game();
+            //game.Dealer = "Jesse";
+            //game.Name = "TwentyOne";
+            //Game game = new Game();
+            //game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            //game.ListPlayers();
+            //Console.ReadLine();
 
-            //deck = Shuffle(deck);
-            //deck = Shuffle(deck, 3);
-            //deck = Shuffle(deck, 3);
-            //deck = Shuffle(deck: deck, times: 3);
+           Deck deck = new Deck();
+           deck.Shuffle(3);
+
+           // //deck = Shuffle(deck);
+           // //deck = Shuffle(deck, 3);
+           // //deck = Shuffle(deck, 3);
+           // //deck = Shuffle(deck: deck, times: 3);
 
 
-            //int timesShuffled = 0;
-            //deck = Shuffle(deck, out timesShuffled, 3);
+           // //int timesShuffled = 0;
+           // //deck = Shuffle(deck, out timesShuffled, 3);
 
-            foreach (Card card in deck.Cards)
+           foreach (Card card in deck.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
-            Console.WriteLine(deck.Cards.Count);
-           // Console.WriteLine("Times shuffled: {0}", timesShuffled);
+           Console.WriteLine(deck.Cards.Count);
+           //// Console.WriteLine("Times shuffled: {0}", timesShuffled);
 
-            //Console.WriteLine(deck.Cards[0].Face + " of " + deck.Cards[0].Suit);
-            Console.ReadLine();
+           // //Console.WriteLine(deck.Cards[0].Face + " of " + deck.Cards[0].Suit);
+           Console.ReadLine();
         }
 
         

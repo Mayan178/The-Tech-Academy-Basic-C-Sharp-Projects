@@ -1,0 +1,7 @@
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Methods_and_Objects_Assignment\Methods_and_Objects_Assignment\obj\Debug\Methods_and_Objects_Assignment.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Methods_and_Objects_Assignment\Methods_and_Objects_Assignment\obj\Debug\Methods_and_Objects_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Methods_and_Objects_Assignment\Methods_and_Objects_Assignment\bin\Debug\Methods_and_Objects_Assignment.exe.config
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Methods_and_Objects_Assignment\Methods_and_Objects_Assignment\bin\Debug\Methods_and_Objects_Assignment.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Methods_and_Objects_Assignment\Methods_and_Objects_Assignment\bin\Debug\Methods_and_Objects_Assignment.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Methods_and_Objects_Assignment\Methods_and_Objects_Assignment\obj\Debug\Methods_and_Objects_Assignment.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Methods_and_Objects_Assignment\Methods_and_Objects_Assignment\obj\Debug\Methods_and_Objects_Assignment.pdb
