@@ -24,6 +24,14 @@ namespace TwentyOne
             //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
             //Console.WriteLine(underlyingValue);
 
+            //testing card to struct
+            //Card card1 = new Card();
+            //Card card2 = card1;
+            //card1.Face = Face.Eight;
+            //card2.Face = Face.King;
+
+            Console.WriteLine(card1.Face);
+
             Deck deck = new Deck();
             deck.Shuffle(3);
 
