@@ -4,59 +4,38 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace TwentyOne
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //polymorphism
-            //Game game = new TwentyOneGame();
-            //game.Players = new List<Player>();
-            //Player player = new Player();
-            //player.Name = "Jesse";
-            //game = game + player;
-            //game += player;
-            //game -= player;
+            //string text = "Here is some text.";
+            //File.WriteAllText(@"C:\Users\LENOVO-THINKPAD-T430\test_log.txt", text);
 
-            //Card card = new Card();
-            //card.Suit = Suit.Clubs;
-            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
-            //Console.WriteLine(underlyingValue);
+            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            string playername = Console.ReadLine();
+            Console.WriteLine("And how much money did you bring today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playername);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
+            {
+                Player player = new Player(playername, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
 
-            //testing card to struct
-            //Card card1 = new Card();
-            //Card card2 = card1;
-            //card1.Face = Face.Eight;
-            //card2.Face = Face.King;
-
-            //Console.WriteLine(card1.Face);
-
-            
-            Deck deck = new Deck();
-            deck.Shuffle(3);
-
-            //using a Lambda function
-            //counting all aces
-            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
-
-
-            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
-            //foreach (Card card in newList)
-            //{
-            //    Console.WriteLine(card.Face);
-            //}
-
-            List<int> numberList = new List<int>() { 1, 2, 3, 535, 324, 23 };
-            int sum = numberList.Sum();
-            Console.WriteLine(sum);
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            Console.ReadLine();
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
+            }
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
+            Console.Read();
         }
 
       
