@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//for file usage
+//using System.IO;
 
 namespace TwentyOne
 {
@@ -11,6 +12,12 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            //DateTime yearofBirth = new DateTime(2005, 01, 01, 05, 31, 05);
+            //DateTime yearofGraduation = new DateTime(2023, 06, 01, 15, 31, 05);
+
+            //TimeSpan ageAtGraduation = yearofGraduation - yearofBirth;
+            //TimeSpan ageAtGraduation = yearofGraduation - yearofBirth;
+
             //string text = "Here is some text.";
             //File.WriteAllText(@"C:\Users\LENOVO-THINKPAD-T430\test_log.txt", text);
 
