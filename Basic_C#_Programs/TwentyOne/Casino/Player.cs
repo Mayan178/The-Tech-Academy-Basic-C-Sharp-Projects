@@ -4,11 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Player
     {
         //constructor (always at the top of the class)
+        //chaining constructor
+        public Player(string name) : this(name, 100)
+        { }
+
+
         public Player(string name , int beginningBalance)
         {
             Hand = new List<Card>();
@@ -23,6 +28,8 @@ namespace TwentyOne
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        //for a unique identifier
+        public Guid Id { get; set; }
 
         public bool Bet(int amount)
         {

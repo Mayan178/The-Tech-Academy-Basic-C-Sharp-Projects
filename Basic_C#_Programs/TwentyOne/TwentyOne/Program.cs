@@ -5,6 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 //for file usage
 //using System.IO;
+//referring to the Casino library
+using Casino;
+using Casino.TwentyOne;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -21,7 +25,11 @@ namespace TwentyOne
             //string text = "Here is some text.";
             //File.WriteAllText(@"C:\Users\LENOVO-THINKPAD-T430\test_log.txt", text);
 
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            //creating a constant
+            const string casinoName = "Grand Hotel and Casino";
+            
+
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.",casinoName);
             string playername = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());
@@ -30,6 +38,14 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playername, bank);
+                //setting up unique identifier for the player
+                player.Id = Guid.NewGuid();
+                //logging the Id
+                using (StreamWriter file = new StreamWriter(@"C:\Users\LENOVO-THINKPAD-T430\test_log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
+
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
