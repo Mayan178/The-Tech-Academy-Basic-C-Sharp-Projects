@@ -1,0 +1,14 @@
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.0\Scores.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.0\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.0\Scores.AssemblyInfoInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.0\Scores.AssemblyInfo.cs
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.0\Scores.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.0\Scores.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.0\Scores.deps.json
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.0\Scores.runtimeconfig.json
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.0\Scores.runtimeconfig.dev.json
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.0\Scores.dll
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.0\Scores.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.0\Scores.dll
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.0\Scores.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.0\Scores.genruntimeconfig.cache

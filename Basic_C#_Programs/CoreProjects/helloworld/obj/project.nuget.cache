@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KAuWKJxq5s2/foR3etHRBkw7RvMXGh+hyAZlk5ugLkbPtPpHqVIRza6qO+/J0vDi9VVOvgd0prS7q9/ppuhHlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO-THINKPAD-T430\\Desktop\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\CoreProjects\\helloworld\\helloworld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO-THINKPAD-T430\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.17\\microsoft.netcore.app.runtime.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\LENOVO-THINKPAD-T430\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.17\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\LENOVO-THINKPAD-T430\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.17\\microsoft.aspnetcore.app.runtime.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
