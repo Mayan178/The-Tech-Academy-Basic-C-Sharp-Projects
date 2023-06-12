@@ -1,0 +1,13 @@
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\bin\Debug\CodeFirstStudentApplication.exe.config
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\bin\Debug\CodeFirstStudentApplication.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\bin\Debug\CodeFirstStudentApplication.pdb
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\obj\Debug\CodeFirstStudentApplication.csproj.AssemblyReference.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\obj\Debug\CodeFirstStudentApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\obj\Debug\CodeFirstStudentApplication.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\obj\Debug\CodeFirstStudentApplication.csproj.CopyComplete
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\obj\Debug\CodeFirstStudentApplication.exe
+C:\Users\LENOVO-THINKPAD-T430\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirstStudentApplication\CodeFirstStudentApplication\obj\Debug\CodeFirstStudentApplication.pdb
