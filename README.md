@@ -117,6 +117,8 @@ A Console application asking the user to enter their name and comparing the ente
 37 - OperatorsAssignmentSubmission:
 A Console application comparing the Ids of persons and defining if they are the same or not.
 
+38 - ParametersAssignment:
+A Console application looping through elements in 2 lists (a string list and a number list) and displaying each element to the user.
 
 
 
