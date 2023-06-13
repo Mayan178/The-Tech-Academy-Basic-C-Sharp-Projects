@@ -3,7 +3,7 @@ Repository for all basic C Sharp course projects
 
 In this folder you will find projects built with .NET Framework and .NET Core.
 
-Below is a summary of each project:
+Below is a summary of each project built on my course:
 
 1 - AbstractClassAssignment:
 A Console application using polymorphism in order to display an employee's given name, using a function from the Employee class.
@@ -119,6 +119,55 @@ A Console application comparing the Ids of persons and defining if they are the 
 
 38 - ParametersAssignment:
 A Console application looping through elements in 2 lists (a string list and a number list) and displaying each element to the user.
+
+39 - ParsingEnumsAssignment:
+A Console application returning the day of the week by using enums.
+
+40 - Polymorphism_Assignment:
+A Console application using polymorphism
+
+41 - Scores:
+A Console application reading scores data from a file and using this data for display and calculations.
+
+42 - SixPartAssignment:
+A Console application making use of loops through arrays and lists in order to display data.
+
+43 - StringAssignment:
+A Console application using concatenations, and string functions, such as ToUpper and Append.
+
+44 - StringFunctions:
+A Console application used to test some functions relating to string manipulation.
+
+45 - StringsIntegersAssignment:
+A Console application asking the user to input a number and then displaying the results of calculations where other numbers are divided by the number entered by the user.
+
+46 - StructAssignment:
+A Console application making use of a structure.
+
+47 - StudentsMVC:
+A Web application built upon Model View Controller framework.
+The home/instructors page will return a list of instructors.
+
+48 - SwitchChallenge:
+A Console application making use of the switch and case statements to figure out the day of the week, based on the number given.
+
+49 - TernaryOperatorChallenge:
+A Console application using the ternary operator x == "y" ? "matching" : "not matching".
+
+50 - TryCatchAssignment:
+A Console application asking the user to enter their age, and checking that the number entered is not 0 or a negative number (otherwise exceptions are thrown), and working out which year the person was born if age entered is valid.
+
+51 - TwentyOne:
+A Console application built following video instructions, to allow the user to play a game of Twenty One. If any errors are generated, they are logged in and added to a database.
+
+52 - VariablesAndDataTypes:
+A test Console application using simple string and number inputs and displaying them back to the user.
+
+53 - WelcometoAcme:
+A Console application displaying a simple welcome message.
+
+54 - myConsoleProject:
+A Console application asking for a user's name and displaying a "hello" message back at them.
 
 
 
